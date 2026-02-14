@@ -24,15 +24,6 @@ ORG 0000H
 	INC R0
 	MOV @R0,A
 	END
-
-
-
-
-
-
-
-
-
 ```
 
 ## OUTPUT
@@ -72,14 +63,6 @@ MOV @R0,A
 INC R0
 MOV @R0,B
 END
-
-
-
-
-
-
-
-
 ```
 
 
